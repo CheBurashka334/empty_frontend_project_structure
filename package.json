@@ -25,7 +25,7 @@
     "fullpage.js": "*",
     "inputmask": "*",
     "jquery-validation": "*",
-    "gulp": "gulpjs/gulp.git#4.0",
+    "gulp": "4.0",
     "gulp-autoprefixer": "*",
     "gulp-changed": "*",
     "gulp-concat": "*",
